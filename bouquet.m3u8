@@ -344,7 +344,7 @@ http://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
 https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
 
 #EXTINF:-1,tvg-name="7 Sydney" tvg-logo="https://pbs.twimg.com/profile_images/1288318328897826822/jE3CV47j_400x400.jpg" group-title="AussieBouquet",Sydney | 7
-https://tbs.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
+https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
 #EXTINF:-1,tvg-name="7two Sydney" tvg-logo="https://pbs.twimg.com/profile_images/779176728111423488/mmGx1xO-_400x400.jpg" group-title="AussieBouquet",Sydney | 7two 
 https://npc.cdn.7livecloud.io/hls/live/SYD2/master.m3u8
 #EXTINF:-1,tvg-name="7mate Sydney" tvg-logo="https://pbs.twimg.com/profile_images/1303895510143479808/HSaXP1WK_400x400.jpg" group-title="AussieBouquet",Sydney | 7mate 
