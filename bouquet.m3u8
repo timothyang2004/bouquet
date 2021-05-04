@@ -160,10 +160,10 @@ https://exodiver.github.io/IPTV/M3U8/Token/AfricaNews.m3u8
 #EXTINF:-1,tvg-name="GlobalNews" tvg-logo="https://pbs.twimg.com/profile_images/722490988120289280/iF92VumO_400x400.jpg" group-title="NewsBouquet",Canada | Global News
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
 
-#EXTINF:-1,tvg-name="Bloomberg+ 4k" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/05/51xZAebJMXL._SL1280_-1096x477.jpg" group-title="NewsBouquet",US | Bloomberg TV+ 4k
+#EXTINF:-1,tvg-name="Bloomberg+ 4k" tvg-logo="https://tbivision.com/files/2019/10/Bloomberg.png" group-title="NewsBouquet",US | Bloomberg+ 4k
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1,tvg-name="Bloomberg+" tvg-logo="https://tbivision.com/files/2019/10/Bloomberg.png" group-title="NewsBouquet",US | Bloomberg TV+
+#EXTINF:-1,tvg-name="Bloomberg+" tvg-logo="https://tbivision.com/files/2019/10/Bloomberg.png" group-title="NewsBouquet",US | Bloomberg+
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 #EXTINF:-1,tvg-name="Bloomberg US" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_400x400.jpg" group-title="NewsBouquet",US | Bloomberg US
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
