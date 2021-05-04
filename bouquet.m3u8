@@ -66,11 +66,7 @@ https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1,tvg-name="FashionTV" tvg-logo="https://pbs.twimg.com/profile_images/1068041512259334146/fHIqp5i3_400x400.jpg" group-title="MusicBouquet",France | Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1,tvg-name="Rewind" tvg-logo="https://www.radio.net/images/broadcasts/05/5c/109756/1/c175.png" group-title="MusicBouquet", Rewind TV
-
-
-
-#EXTINF:-1 tvg-id="RewindHD.cl" tvg-name="Rewind HD" tvg-country="CL" tvg-language="" tvg-logo="https://i.imgur.com/Ni2jlBi.png" tvg-url="" group-title="Music",Rewind HD
+#EXTINF:-1,tvg-name="Rewind" tvg-logo="https://www.kiwanidolean.com/wp-content/uploads/Rewind_Music_Square_Black_NoCable@4x-1-1.png" group-title="MusicBouquet", Rewind TV
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
 #EXTINF:-1,tvg-name="Eurodance" tvg-logo="https://cdn.playlists.net/images/playlists/image/medium/2597c8bd4f79d57468334da3addd4090.jpg" group-title="MusicBouquet", EuroDance
