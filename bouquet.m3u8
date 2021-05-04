@@ -99,45 +99,83 @@ https://fc68583ae7094821b6ab3b44c50c7740.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1067214484337418240/T7NdwFpj_400x400.jpg" group-title="MusicBouquet",Loop Media | Yacht Rock
 https://6f293d7819ba4cf39ea9152700ad54ad.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_plex/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="MusicBouquet",MIX 24/7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="MusicBouquet",MIX 24/7 | Pure Rock
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="MusicBouquet",MIX 24/7 - Baladas
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="MusicBouquet",MIX 24/7 | Ballad
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="MusicBouquet",MIX 24/7 - Conciertos Live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="MusicBouquet",MIX 24/7 | Concerts Live
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="MusicBouquet",MIX 24/7 - Pop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="MusicBouquet",MIX 24/7 | Pop
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="MusicBouquet",MIX 24/7 - Retro
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="MusicBouquet",MIX 24/7 | Retro
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="MusicBouquet",MIX 24/7 - Top 100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="MusicBouquet",MIX 24/7 | Top 100
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918826532646273025/RVi4b3Oi_400x400.jpg" group-title="MusicBouquet",Stingray Classica
 https://a.jsrdn.com/broadcast/redx4332g5/index_1920x1080_4500kbps.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918826532646273025/RVi4b3Oi_400x400.jpg" group-title="MusicBouquet",Stingray Qello
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/1920x1080_5161200/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918826532646273025/RVi4b3Oi_400x400.jpg" group-title="MusicBouquet",Stingray djazz
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918826532646273025/RVi4b3Oi_400x400.jpg" group-title="MusicBouquet",Stingray Karaoke
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/1920x1080_5161200/chunklist.m3u8
 
 
-#EXTINF:-1,tvg-name="SurfLine Bondi" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="SurfLine Sydney",Bondi Beach
+
+#EXTINF:-1,tvg-name="SurfLine Bondi" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="Calm",Bondi Beach
 https://cams.cdn-surfline.com/cdn-au/au-bondi/chunklist.m3u8
-#EXTINF:-1,tvg-name="SurfLine North Bondi" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="SurfLine Sydney",North Bondi
+#EXTINF:-1,tvg-name="SurfLine North Bondi" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="Calm",North Bondi
 https://cams.cdn-surfline.com/cdn-au/au-bondinorth/chunklist.m3u8
-#EXTINF:-1,tvg-name="SurfLine Maroubra" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="SurfLine Sydney",Maroubra
+#EXTINF:-1,tvg-name="SurfLine Maroubra" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="Calm",Maroubra
 https://cams.cdn-surfline.com/cdn-au/au-maroubra/chunklist.m3u8
-#EXTINF:-1,tvg-name="SurfLine Manly" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="SurfLine Sydney",Manly-Hotel Steyne
+#EXTINF:-1,tvg-name="SurfLine Manly" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="Calm",Manly-Hotel Steyne
 https://cams.cdn-surfline.com/cdn-au/au-manlyhotel/chunklist.m3u8
-#EXTINF:-1,tvg-name="SurfLine Dee Why" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="SurfLine Sydney",Dee Why
+#EXTINF:-1,tvg-name="SurfLine Dee Why" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="Calm",Dee Why
 https://cams.cdn-surfline.com/cdn-au/au-deewhy/chunklist.m3u8
-#EXTINF:-1,tvg-name="SurfLine Cronulla" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="SurfLine Sydney",Cronulla
+#EXTINF:-1,tvg-name="SurfLine Cronulla" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="Calm",Cronulla
 https://cams.cdn-surfline.com/cdn-au/au-cronulla/playlist.m3u8
-#EXTINF:-1,tvg-name="SurfLine Cronulla" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="SurfLine Sydney",Cronulla-Wanda	
+#EXTINF:-1,tvg-name="SurfLine Cronulla" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="Calm",Cronulla-Wanda	
 https://cams.cdn-surfline.com/cdn-au/au-cronullawanda/chunklist.m3u8
-#EXTINF:-1,tvg-name="SurfLine Cronulla" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="SurfLine Sydney",North Palm Beach	
+#EXTINF:-1,tvg-name="SurfLine Cronulla" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="Calm",North Palm Beach	
 https://cams.cdn-surfline.com/cdn-au/au-northpalmbeachnsw/playlist.m3u8
-#EXTINF:-1,tvg-name="SurfLine Cronulla" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="SurfLine Sydney",Byron Bay	
+#EXTINF:-1,tvg-name="SurfLine Cronulla" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="Calm",Byron Bay	
 https://cams.cdn-surfline.com/cdn-au/au-byronbay/playlist.m3u8
-#EXTINF:-1,tvg-name="SurfLine Cronulla" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="SurfLine Sydney",Byron Bay-The Pass	
+#EXTINF:-1,tvg-name="SurfLine Cronulla" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="Calm",Byron Bay-The Pass	
 https://cams.cdn-surfline.com/cdn-au/au-thepass/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Beaches
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Sunsets
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Waterfalls
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Tropics
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Forests
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Animals
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Rivers
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Lakes
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Mountains
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Aurora
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918826532646273025/RVi4b3Oi_400x400.jpg" group-title="Calm",Stingray Naturescape
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/1920x1080_5161200/chunklist.m3u8
 
 #EXTINF:-1,tvg-name="CNN" tvg-logo="https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_400x400.jpg" group-title="NewsBouquet",US| CNN US
 http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
@@ -872,45 +910,7 @@ http://seb.sason.top/sc/dsxw_fhd.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Beaches
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Sunsets
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Waterfalls
-https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Tropics
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Forests
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Animals
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Rivers
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Lakes
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Mountains
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.rokuguide.com/images/naturevision-tv.png" group-title="Calm",Aurora
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918826532646273025/RVi4b3Oi_400x400.jpg" group-title="Calm",Stingray Naturescape
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/1920x1080_5161200/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918826532646273025/RVi4b3Oi_400x400.jpg" group-title="MusicBouquet",Stingray Qello
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/1920x1080_5161200/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918826532646273025/RVi4b3Oi_400x400.jpg" group-title="MusicBouquet",Stingray djazz
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918826532646273025/RVi4b3Oi_400x400.jpg" group-title="MusicBouquet",Stingray Karaoke
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/1920x1080_5161200/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918826532646273025/RVi4b3Oi_400x400.jpg" group-title="MusicBouquet",Stingray Greatest Hits
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
