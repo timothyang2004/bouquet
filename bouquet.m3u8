@@ -73,7 +73,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 #EXTINF:-1 tvg-id="RewindHD.cl" tvg-name="Rewind HD" tvg-country="CL" tvg-language="" tvg-logo="https://i.imgur.com/Ni2jlBi.png" tvg-url="" group-title="Music",Rewind HD
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
-#EXTINF:-1,tvg-name="Eurodance90" tvg-logo="https://www.radio.net/images/broadcasts/05/5c/109756/1/c175.png" group-title="MusicBouquet",Russia | EuroDance 90
+#EXTINF:-1,tvg-name="Eurodance" tvg-logo="https://cdn.playlists.net/images/playlists/image/medium/2597c8bd4f79d57468334da3addd4090.jpg" group-title="MusicBouquet", EuroDance
 https://eurodance.catcast.tv/content/36987/index.m3u8
 
 #EXTINF:-1,tvg-name="DanceStarTV" tvg-logo="https://i.imgur.com/xLqyZQQ.png" group-title="MusicBouquet",UK | DanceStar TV
