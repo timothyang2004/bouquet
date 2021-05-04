@@ -79,14 +79,14 @@ https://eurodance.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1,tvg-name="DanceStarTV" tvg-logo="https://i.imgur.com/xLqyZQQ.png" group-title="MusicBouquet",UK | DanceStar TV
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 
-#EXTINF:-1,tvg-name="ClubbingTV1" tvg-logo="https://pbs.twimg.com/profile_images/413985898787647488/XeAPJuQH_400x400.png" group-title="MusicBouquet",France | Clubbing TV1
+#EXTINF:-1,tvg-name="Clubbing1" tvg-logo="https://pbs.twimg.com/profile_images/413985898787647488/XeAPJuQH_400x400.png" group-title="MusicBouquet",France | Clubbing 1
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1,tvg-name="ClubbingTV2" tvg-logo="https://pbs.twimg.com/profile_images/413985898787647488/XeAPJuQH_400x400.png" group-title="MusicBouquet",France | Clubbing TV2
+#EXTINF:-1,tvg-name="Clubbing2" tvg-logo="https://pbs.twimg.com/profile_images/413985898787647488/XeAPJuQH_400x400.png" group-title="MusicBouquet",France | Clubbing 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1,tvg-name="ClubbingTV3" tvg-logo="https://pbs.twimg.com/profile_images/413985898787647488/XeAPJuQH_400x400.png" group-title="MusicBouquet",France | Clubbing TV3
+#EXTINF:-1,tvg-name="Clubbing3" tvg-logo="https://pbs.twimg.com/profile_images/413985898787647488/XeAPJuQH_400x400.png" group-title="MusicBouquet",France | Clubbing 3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ad1a372e57c0007dbee5a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
