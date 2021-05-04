@@ -117,7 +117,7 @@ https://cams.cdn-surfline.com/cdn-au/au-thepass/playlist.m3u8
 #EXTINF:-1,tvg-name="CNN" tvg-logo="https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_400x400.jpg" group-title="NewsBouquet",US| CNN US
 http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
 
-#EXTINF:-1,tvg-name="CNNI" tvg-logo="https://pbs.twimg.com/profile_images/926050400062631936/Rvynw19f_400x400.jpg" group-title="NewsBouquet",US| CNN International
+#EXTINF:-1,tvg-name="CNNI" tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logoq.png?t=636314" group-title="NewsBouquet",US| CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 
