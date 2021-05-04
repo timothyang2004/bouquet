@@ -14,8 +14,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1,tvg-name="MelodyCh" tvg-logo="https://pbs.twimg.com/profile_images/697867131841572864/3jr5w-5B_400x400.png" group-title="MusicBouquet",Colombia | Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
 
 #EXTINF:-1,tvg-name="Kiss" tvg-logo="https://pbs.twimg.com/profile_images/2866723969/2ca120149dd6f89c448c252a7ad13532_400x400.png" group-title="MusicBouquet",UK | Kiss
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
