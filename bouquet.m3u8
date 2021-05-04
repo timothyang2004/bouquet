@@ -94,7 +94,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ad1a37
 https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
 
 #EXTINF:-1,tvg-name="TechnoWarehouse" tvg-logo="https://i.imgur.com/GyxXMDv.png" group-title="MusicBouquet",US | Techno Warehouse
-https://eu-nl-012.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+https://eu-nl-012.worldcast.tv/dancetelevisionfour/dancetelevisionfour.m3u8
 
 #EXTINF:-1,tvg-name="TechnoWarehouse" tvg-logo="https://i.imgur.com/GyxXMDv.png" group-title="MusicBouquet",US | Techno Warehouse
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
