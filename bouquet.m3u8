@@ -89,35 +89,25 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ad1a37
 https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
 
 
+#EXTINF:-1,tvg-name="Loop80s" tvg-logo="https://pbs.twimg.com/profile_images/1067214484337418240/T7NdwFpj_400x400.jpg" group-title="MusicBouquet",Loop 80s
+https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1067214484337418240/T7NdwFpj_400x400.jpg" group-title="MusicBouquet",Loop Media | 80's Party
-https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/master.m3u8
+#EXTINF:-1,tvg-name="Loop90s" tvg-logo="https://pbs.twimg.com/profile_images/1067214484337418240/T7NdwFpj_400x400.jpg" group-title="MusicBouquet",Loop 90s
+https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1067214484337418240/T7NdwFpj_400x400.jpg" group-title="MusicBouquet",Loop Media | 80's
-https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s/playlist.m3u8
+#EXTINF:-1,tvg-name="LoopCountry" tvg-logo="https://pbs.twimg.com/profile_images/1067214484337418240/T7NdwFpj_400x400.jpg" group-title="MusicBouquet",Loop Country
+https://loop-country-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1067214484337418240/T7NdwFpj_400x400.jpg" group-title="MusicBouquet",Loop Media | 90's Kids
-https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/master.m3u8
+#EXTINF:-1,tvg-name="LoopHipHop" tvg-logo="https://pbs.twimg.com/profile_images/1067214484337418240/T7NdwFpj_400x400.jpg" group-title="MusicBouquet",Loop HipHop
+https://loop-hip-hop-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1067214484337418240/T7NdwFpj_400x400.jpg" group-title="MusicBouquet",Loop Media | 90's
-https://6eb959e10c2a4477a5b14100220c3c5f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop90s/playlist.m3u8
+#EXTINF:-1,tvg-name="LoopHottest" tvg-logo="https://pbs.twimg.com/profile_images/1067214484337418240/T7NdwFpj_400x400.jpg" group-title="MusicBouquet",Loop Hottest
+https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1067214484337418240/T7NdwFpj_400x400.jpg" group-title="MusicBouquet",Loop Media | Country
-https://053155d1274848ed85106dbf20adc283.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopCountry/playlist.m3u8
+#EXTINF:-1,tvg-name="LoopParty" tvg-logo="https://pbs.twimg.com/profile_images/1067214484337418240/T7NdwFpj_400x400.jpg" group-title="MusicBouquet",Loop Party
+https://loop-party-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1067214484337418240/T7NdwFpj_400x400.jpg" group-title="MusicBouquet",Loop Media | Electronica
-https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1067214484337418240/T7NdwFpj_400x400.jpg" group-title="MusicBouquet",Loop Media | Hottest
-https://a0da9e6a83bc4a739ceb39f81766fce0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHottest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1067214484337418240/T7NdwFpj_400x400.jpg" group-title="MusicBouquet",Loop Media | Party
-https://aa25f9002c724666a6e1e9402e78f94f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1067214484337418240/T7NdwFpj_400x400.jpg" group-title="MusicBouquet",Loop Media | Unwind
-https://fc68583ae7094821b6ab3b44c50c7740.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_plex/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1067214484337418240/T7NdwFpj_400x400.jpg" group-title="MusicBouquet",Loop Media | Yacht Rock
-https://6f293d7819ba4cf39ea9152700ad54ad.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_plex/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WCyapaP.jpg" tvg-url="" group-title="MusicBouquet",MIX 24/7 | Pure Rock
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
