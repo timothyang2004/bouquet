@@ -1,5 +1,34 @@
 #EXTM3U
 
+
+
+
+#EXTINF:-1,tvg-name="NowThis" tvg-logo="https://pbs.twimg.com/profile_images/1374739040923222020/KwioZl7H_400x400.jpg" group-title="MusicBouquet",UK | Now This
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-nowthis/CDN/master.m3u8
+#EXTINF:-1,tvg-name="Now70s" tvg-logo="https://media.info/i/lf/600/1576450439/1191.png" group-title="MusicBouquet",UK | Now 70s
+https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,tvg-name="Now80s" tvg-logo="https://media.info/i/lf/600/1487529852/1546.png" group-title="MusicBouquet",UK | Now 80s
+https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,tvg-name="Now90s" tvg-logo="https://media.info/i/lf/600/1515881263/6367.png" group-title="MusicBouquet",UK | Now 90s
+https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-name="Kiss" tvg-logo="https://pbs.twimg.com/profile_images/2866723969/2ca120149dd6f89c448c252a7ad13532_400x400.png" group-title="MusicBouquet",UK | Kiss
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:-1,tvg-name="Kerang" tvg-logo="https://pbs.twimg.com/profile_images/566297265078140929/F3mh9XMq_400x400.jpeg" group-title="MusicBouquet",UK | Kerrang!
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1,tvg-name="Magic" tvg-logo="https://pbs.twimg.com/profile_images/1661514019/magic_twitter_reasonably_small.gif" group-title="MusicBouquet",UK | Magic
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+#EXTINF:-1,tvg-name="BoxHits" tvg-logo="https://pbs.twimg.com/profile_images/378800000661707005/ab1086b07768e7b9ea32e18a418df564_400x400.png" group-title="MusicBouquet",UK | Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,tvg-name="m2o IT" tvg-logo="https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o_1024x1024.png" group-title="MusicBouquet",Italy | m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,tvg-name="Capital IT" tvg-logo="https://www.tvdream.net/immagini/radiocapital.gif" group-title="MusicBouquet",Italy | Radio Capital Tivù
@@ -15,16 +44,6 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1,tvg-name="MelodyCh" tvg-logo="https://pbs.twimg.com/profile_images/697867131841572864/3jr5w-5B_400x400.png" group-title="MusicBouquet",Colombia | Melody Channel
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
-
-#EXTINF:-1,tvg-name="Kiss" tvg-logo="https://pbs.twimg.com/profile_images/2866723969/2ca120149dd6f89c448c252a7ad13532_400x400.png" group-title="MusicBouquet",UK | Kiss
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
-#EXTINF:-1,tvg-name="Kerang" tvg-logo="https://pbs.twimg.com/profile_images/566297265078140929/F3mh9XMq_400x400.jpeg" group-title="MusicBouquet",UK | Kerrang!
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
-#EXTINF:-1,tvg-name="Magic" tvg-logo="https://pbs.twimg.com/profile_images/1661514019/magic_twitter_reasonably_small.gif" group-title="MusicBouquet",UK | Magic
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
-#EXTINF:-1,tvg-name="BoxHits" tvg-logo="https://pbs.twimg.com/profile_images/378800000661707005/ab1086b07768e7b9ea32e18a418df564_400x400.png" group-title="MusicBouquet",UK | Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-
 
 #EXTINF:-1,tvg-name="Mooz HD" tvg-logo="https://mooz.tv/site/img/mooz-hd.jpg" group-title="MusicBouquet",Romania | Mooz HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/167.m3u8/Level(545259)?start=LIVE&end=END
@@ -225,6 +244,9 @@ http://51.52.156.22:8888/http/004
 
 #EXTINF:-1,tvg-name="Sky News" tvg-logo="https://pbs.twimg.com/profile_images/953341660813021185/o2IGXWqj_400x400.jpg" group-title="NewsBouquet",UK | Sky News UK
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+
+#EXTINF:-1,tvg-name="GB News" tvg-logo="https://pbs.twimg.com/profile_images/1377301663740989442/7Hbbjuxt_400x400.png" group-title="NewsBouquet",UK | GB News
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 
 #EXTINF:-1,tvg-name="Al Jazeera" tvg-logo="https://pbs.twimg.com/profile_images/1190503677108400128/q7i77pmz_400x400.jpg" group-title="NewsBouquet",Qatar | Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -687,6 +709,9 @@ https://d9quh89lh7dtw.cloudfront.net/public-output/index_1280x720_3000k.m3u8
 
 #EXTINF:-1,tvg-name="Rialto" tvg-logo="https://pbs.twimg.com/profile_images/1379193634466058243/ye2giU_c_400x400.jpg" group-title="AussieBouquet",Australia | Rialto Channel
 https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-name="Revry" tvg-logo="https://mms.businesswire.com/media/20200514005187/en/791625/4/RevryLogoQTV_Black_%282%29.jpg" group-title="AussieBouquet",Australia | Revry Channel
+https://revry-revry-4-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,tvg-name="Sky News AUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9nXcsjZ4zKeTH-4apkFYDMK3bO9U7YI3X3Dbph2kWk-AIQ-xI" group-title="AussieBouquet",Australia | Sky News Australia COVID-19
 
