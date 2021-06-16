@@ -257,7 +257,15 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8
 
 #EXTINF:-1,tvg-name="ABC News Live" tvg-logo="https://pbs.twimg.com/profile_images/1224353808236666882/ixUUbdUD_400x400.jpg" group-title="NewsBouquet",US | ABC News Live
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+https://abcnewslive-roku.akamaized.net/midroll/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
+
+#EXTINF:-1,tvg-name="NBC News Now" tvg-logo="https://pbs.twimg.com/profile_images/1131650557133938689/TmAm7HDQ_400x400.png" group-title="NewsBouquet",US | NBC News Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8
+
+
+#EXTINF:-1,tvg-name="USAToday" tvg-logo="https://pbs.twimg.com/profile_images/924991591642796032/v90LrlR__400x400.jpg" group-title="NewsBouquet",US | USA Today
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u8
+
 
 #EXTINF:-1,tvg-name="MSNBC" tvg-logo="https://pbs.twimg.com/profile_images/1321089811290202119/6QEBEjWk_400x400.jpg" group-title="NewsBouquet",US | MSNBC
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
