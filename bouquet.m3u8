@@ -303,6 +303,8 @@ http://ott-cdn.ucom.am/s65/index.m3u8
 #EXTINF:-1,tvg-name="TDN" tvg-logo="https://www.marketbeat.com/logos/407_profile_img1_td.jpg" group-title="NewsBouquet",US | TD Ameritrade Network
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8?tc=1&rn=1456123471&cid=f9aafa1f132e40af9b9e7238bc18d128&exp=1627391092&ct=c&sig=d07d2e8b152f04591061e77b3273fb0a6d82659b508349ba96f72d1a902695e9
 
+#EXTINF:-1,tvg-name="YahooFinance" tvg-logo="https://pbs.twimg.com/profile_images/1176105064219516928/qwU6ALZR_400x400.png" group-title="NewsBouquet",US | Yahoo! Finance
+https://yahoo-samsung.amagi.tv/hls/amagi_hls_data_yahoofina-samsungyahoofinance/CDN/playlist.m3u8
 
 #EXTINF:-1,tvg-name="AusBiz" tvg-logo="https://pbs.twimg.com/profile_images/1178090196891340800/BrsZ2qd6_400x400.jpg" group-title="NewsBouquet",Australia | AusBiz
 https://d9quh89lh7dtw.cloudfront.net/public-output/index_1280x720_3000k.m3u8
@@ -379,6 +381,16 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1,tvg-name="Discovery" tvg-logo="https://static.epg.best/au/DiscoveryChannel.au.png" group-title="EntertainmentBouquet",US | Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1,tvg-name="Smithsonian" tvg-logo="https://pbs.twimg.com/profile_images/1401897633166266369/Tw8knv5__400x400.jpg" group-title="EntertainmentBouquet",US | Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-name="SSWildlife" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/USBA3000043LH_20201007T012217.png" group-title="EntertainmentBouquet",US | Samsung Wildlife
+https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
+
+
+#EXTINF:-1,tvg-name="Preview" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/03/USAJ34000175A_20210323T125703.png" group-title="EntertainmentBouquet",US | The Preview Channel
+https://previewchannel-previewchannel-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,tvg-name="WBTV" tvg-logo="https://pbs.twimg.com/profile_images/1349907111287926785/uUHSQMbF_400x400.jpg" group-title="EntertainmentBouquet",US | WB TV
 http://203.154.243.89:11205/
