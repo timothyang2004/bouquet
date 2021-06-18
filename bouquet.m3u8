@@ -159,20 +159,12 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 #EXTINF:-1,tvg-name="HDFashion" tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="MusicBouquet",Russia| HDFashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1592726780
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1378020596471193614/eKPtvHok_400x400.jpg" group-title="MusicBouquet",Qwest TV Mix
-https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1378020596471193614/eKPtvHok_400x400.jpg" group-title="MusicBouquet",Qwest Jazz and Beyond
-https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1378020596471193614/eKPtvHok_400x400.jpg" group-title="MusicBouquet",Qwest TV Classical
-https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
-
-
 #EXTINF:-1,tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/601653853449158656/IfFlPt4k_400x400.png" group-title="Calm",UK | Classical Harmony
 https://alchimie-classical-harmony-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/697532726170222592/QYZcPJzh_400x400.jpg" group-title="Calm",US | Loupe 4k
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1,tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/697532726170222592/QYZcPJzh_400x400.jpg" group-title="Calm",US | Loupe
+#EXTINF:-1,tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/697532726170222592/QYZcPJzh_400x400.jpg" group-title="Calm",US | Loupe HD
 https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
 
 
@@ -374,10 +366,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393c
 #EXTINF:-1, tvg-name="CBS" tvg-logo="https://pbs.twimg.com/profile_images/1314219897774174208/UudyeGba_400x400.png" group-title="EntertainmentBouquet",US | CBS 4 Maimi
 
 
-#EXTINF:-1,tvg-name="PopTV" tvg-logo="https://pbs.twimg.com/profile_images/1401078798985043970/8WhmndWS_400x400.jpg" group-title="EntertainmentBouquet",US | POP TV
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-
-
 
 #EXTINF:-1,tvg-name="Clarity" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/Clarity_4K_190x190_Circle.png?raw=true" group-title="EntertainmentBouquet",US | Clarity 4k
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
@@ -400,6 +388,10 @@ https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1,tvg-name="Preview" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/03/USAJ34000175A_20210323T125703.png" group-title="EntertainmentBouquet",US | The Preview Channel
 https://previewchannel-previewchannel-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-name="PopTV" tvg-logo="https://pbs.twimg.com/profile_images/1401078798985043970/8WhmndWS_400x400.jpg" group-title="EntertainmentBouquet",US | POP TV
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+
 
 #EXTINF:-1,tvg-name="WBTV" tvg-logo="https://pbs.twimg.com/profile_images/1349907111287926785/uUHSQMbF_400x400.jpg" group-title="EntertainmentBouquet",US | WB TV
 http://203.154.243.89:11205/
@@ -553,7 +545,7 @@ https://i.mjh.nz/au/Melbourne/tv.101406030637.m3u8
 #EXTINF:-1,tvg-name="ten Shake Melbourne |" tvg-logo="https://pbs.twimg.com/profile_images/1306013229026627587/dk9G-o4j_400x400.jpg" group-title="AussieBouquet",Melbourne | ten Shake
 https://i.mjh.nz/au/Melbourne/tv.101406030633.m3u8
 
-#EXTINF:-1,tvg-name="ABC Melbourne " tvg-logo="https://pbs.twimg.com/profile_images/1347126467566526464/6CEE2urc_400x400.jpg" group-title="AussieBouquet",Melbourne | ABC TV
+#EXTINF:-1,tvg-name="ABC Melbourne " tvg-logo="https://pbs.twimg.com/profile_images/1399293356270702593/ipTrxbaE_400x400.jpg" group-title="AussieBouquet",Melbourne | ABC TV
 https://c.mjh.nz/101002310231/
 
 #EXTINF:-1,tvg-name="ABC Plus Melbourne |" tvg-logo="https://televisionau.com/wp-content/uploads/ABCTVPlus_Logo_2021_0003.jpg" group-title="AussieBouquet",Melbourne | ABC TV Plus
@@ -910,19 +902,16 @@ https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 
 
 #EXTINF:-1,tvg-name="TTV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhQJYefaVx6iWXNQFr1i078HVUMDuj5dZ8EJ8NO=s88-c-k-c0x00ffffff-no-rj" group-title="TaiwanBouquet",Taiwan | TTV 台視
-rtmp://59.124.75.156/sat/tv071
+
 
 #EXTINF:-1,tvg-name="CTV" tvg-logo="https://4.bp.blogspot.com/-nE-JXk2fQUQ/Wh6ZO9xLIZI/AAAAAAAAAcY/PDi8d9I2HEEWm9XZzz5330oLac-VOMFPQCLcBGAs/w200-h200-p-nu/CH09.png" group-title="TaiwanBouquet",Taiwan | CTV 中視
-rtmp://59.124.75.156/sat/tv091
 
 #EXTINF:-1,tvg-name="CTS" tvg-logo="https://2.bp.blogspot.com/-PQorQ38OflI/Wh6Z89nIfeI/AAAAAAAAAcg/lpT_-herEX0v-oG3BOF9o_BCPKXcgINIgCLcBGAs/s210/CH11.png" group-title="TaiwanBouquet",Taiwan | CTS 华視
-rtmp://59.124.75.156/sat/tv111
 
 #EXTINF:-1,tvg-name="FTV" tvg-logo="https://www.ftv.com.tw/newtaiwan/images/ch_logo_ftv.png" group-title="TaiwanBouquet",Taiwan | FTV 民視
 http://seb.sason.top/ptv/ftv.php?id=ms
 
 #EXTINF:-1,tvg-name="TVBSG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="TaiwanBouquet",Taiwan | TVBS 歡樂
-http://seb.sason.top/ptv/ftv.php?id=ms
 
 #EXTINF:-1,tvg-name="TVBS News" tvg-logo="https://2.bp.blogspot.com/-MaLjiFOzIr0/WtOu-MTYR-I/AAAAAAAACK0/2l6gOofLk-sf_w-DIyVtsCS3OuRqr6Q5wCLcBGAs/s210/CH%2B55.png" group-title="TaiwanBouquet",Taiwan| TVBS News
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
