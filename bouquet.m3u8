@@ -43,31 +43,9 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1,tvg-name="MelodyCh" tvg-logo="https://pbs.twimg.com/profile_images/697867131841572864/3jr5w-5B_400x400.png" group-title="MusicBouquet",Colombia | Melody Channel
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
 
-#EXTINF:-1,tvg-name="Mooz HD" tvg-logo="https://mooz.tv/site/img/mooz-hd.jpg" group-title="MusicBouquet",Romania | Mooz HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/167.m3u8/Level(545259)?start=LIVE&end=END
-
-#EXTINF:-1,tvg-name="Mooz Hits" tvg-logo="https://mooz.tv/site/img/mooz-hits.jpg" group-title="MusicBouquet",Romania | Mooz Hits
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/167.m3u8/Level(545259)?start=LIVE&end=END
-
-#EXTINF:-1,tvg-name="Mooz Dance" tvg-logo="https://mooz.tv/site/img/mooz-dance.jpg" group-title="MusicBouquet",Romania | Mooz Dance
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/167.m3u8/Level(545259)?start=LIVE&end=END
-
-#EXTINF:-1,tvg-name="Music Top" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPTpHUg11AmYDUb3t6RtoH8W_DZfa95lWPiQ&usqp=CAU" group-title="MusicBouquet",Argentina | Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
-
-#EXTINF:-1,tvg-name="#1 Music HU" tvg-logo="http://1music.hu/image/kocka.jpg" group-title="MusicBouquet",Hungary | #1 Music
-
-#EXTINF:-1,tvg-name="Hit Music HU" tvg-logo="http://1music.hu/image/hitlogo.png" group-title="MusicBouquet",Hungary | Hit Music
-
-
 #EXTINF:-1,tvg-name="CMC" tvg-logo="https://pbs.twimg.com/profile_images/941948310394347520/75LaLDpD_400x400.jpg" group-title="MusicBouquet",US | California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
-
-#EXTINF:-1,tvg-name="HDFashion" tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="MusicBouquet",Russia| HDFashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1592726780
 	
-#EXTINF:-1,tvg-name="V2Beat" tvg-logo="https://www.vibee.tv/wp-content/uploads/2019/08/webpage-player.png" group-title="MusicBouquet",Belgium | V2Beat
-https://abr.de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1,tvg-name="NRJ" tvg-logo="https://pbs.twimg.com/profile_images/1307959559001182215/DHu_jl_4_400x400.jpg" group-title="MusicBouquet",Belgium | NRJ Hits
 
@@ -78,9 +56,6 @@ http://rtmp.one.by:1300
 
 #EXTINF:-1,tvg-name="1HD" tvg-logo="https://online-red.com/images/tv/1hd.png" group-title="MusicBouquet",Russia | 1HD Music TV
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,tvg-name="FashionTV" tvg-logo="https://pbs.twimg.com/profile_images/1068041512259334146/fHIqp5i3_400x400.jpg" group-title="MusicBouquet",France | Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1,tvg-name="Rewind" tvg-logo="https://www.kiwanidolean.com/wp-content/uploads/Rewind_Music_Square_Black_NoCable@4x-1-1.png" group-title="MusicBouquet", Rewind TV
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
@@ -93,6 +68,9 @@ https://v2.catcast.tv/content/39500/index.m3u8
 
 #EXTINF:-1,tvg-name="NRG91" tvg-logo="http://ritsatv.ru/files/poster/medium/900126.png" group-title="MusicBouquet",Greek | NRG91
 http://tv.nrg91.gr:1935/onweb/live/index.m3u8
+
+#EXTINF:-1,tvg-name="V2Beat" tvg-logo="https://www.vibee.tv/wp-content/uploads/2019/08/webpage-player.png" group-title="MusicBouquet",Belgium | V2Beat
+https://abr.de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1,tvg-name="DanceStarTV" tvg-logo="https://i.imgur.com/xLqyZQQ.png" group-title="MusicBouquet",UK | DanceStar TV
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
@@ -107,6 +85,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984784c
 #EXTINF:-1,tvg-name="Clubbing3" tvg-logo="https://pbs.twimg.com/profile_images/413985898787647488/XeAPJuQH_400x400.png" group-title="MusicBouquet",France | Clubbing 3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ad1a372e57c0007dbee5a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1,tvg-name="MinimalTech" tvg-logo="https://i.imgur.com/GyxXMDv.png" group-title="MusicBouquet",US | MinimalTech District
+https://eu-nl-012.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+
+#EXTINF:-1,tvg-name="Deephouse" tvg-logo="https://i.imgur.com/GyxXMDv.png" group-title="MusicBouquet",US | Deephouse District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 
 #EXTINF:-1,tvg-name="TechnoWarehouse" tvg-logo="https://i.imgur.com/GyxXMDv.png" group-title="MusicBouquet",US | Techno Warehouse
 https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
@@ -116,7 +99,7 @@ https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
 https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,tvg-name="Loop90s" tvg-logo="https://pbs.twimg.com/profile_images/1252281186916982787/AnMkfa0u_400x400.jpg" group-title="MusicBouquet",Loop 90s
-https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
+https://loop-90s-2.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,tvg-name="LoopCountry" tvg-logo="https://pbs.twimg.com/profile_images/1252281186916982787/AnMkfa0u_400x400.jpg" group-title="MusicBouquet",Loop Country
 https://loop-country-1.roku.wurl.com/manifest/playlist.m3u8
@@ -157,12 +140,17 @@ https://stirr.ott-channels.stingray.com/djazz/master.m3u8
 https://samsung-au.ott-channels.stingray.com/karaoke/master.m3u8
 
 
+#EXTINF:-1,tvg-name="FashionTV" tvg-logo="https://pbs.twimg.com/profile_images/1068041512259334146/fHIqp5i3_400x400.jpg" group-title="MusicBouquet",France | Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,tvg-name="HDFashion" tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="MusicBouquet",Russia| HDFashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1592726780
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1378020596471193614/eKPtvHok_400x400.jpg" group-title="MusicBouquet",Qwest TV Mix
-https://qwestmix-samsungau.amagi.tv/playlist.m3u8
+https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1378020596471193614/eKPtvHok_400x400.jpg" group-title="MusicBouquet",Qwest Jazz and Beyond
-https://qwestjazz-samsungau.amagi.tv/playlist.m3u8
+https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1378020596471193614/eKPtvHok_400x400.jpg" group-title="MusicBouquet",Qwest TV Classical
-https://qwestclassic-samsungau.amagi.tv/playlist.m3u8
+https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1,tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/601653853449158656/IfFlPt4k_400x400.png" group-title="Calm",UK | Classical Harmony
@@ -172,8 +160,7 @@ https://alchimie-classical-harmony-2-it.samsung.wurl.com/manifest/playlist.m3u8
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1,tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/697532726170222592/QYZcPJzh_400x400.jpg" group-title="Calm",US | Loupe
 https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
-#EXTINF:-1,tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1083149125112086528/ywFqohr8_400x400.jpg" group-title="Calm", Love Nature
-http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1,tvg-name="SurfLine Bondi" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="Calm",Bondi Beach
 https://cams.cdn-surfline.com/cdn-au/au-bondi/chunklist.m3u8
@@ -375,6 +362,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393c
 
 #EXTINF:-1,tvg-name="PopTV" tvg-logo="https://pbs.twimg.com/profile_images/1401078798985043970/8WhmndWS_400x400.jpg" group-title="EntertainmentBouquet",US | POP TV
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+
+
+#EXTINF:-1,tvg-name="LoveNature" tvg-logo="https://pbs.twimg.com/profile_images/1083149125112086528/ywFqohr8_400x400.jpg" group-title="EntertainmentBouquet",US | Love Nature
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,tvg-name="NGeo" tvg-logo="https://pbs.twimg.com/profile_images/1305841513050583045/GMz3LpM1_400x400.png" group-title="EntertainmentBouquet",US | National Geographic
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
