@@ -1168,37 +1168,37 @@ https://livestream.2ser.com/streamrelay
 https://hope1032.com.au/player/?playerid=hope1032
 
 #EXTINF:-1,tvg-name="BBC Radio 1" tvg-logo="https://pbs.twimg.com/profile_images/971359833826918400/G1aAQGO-_400x400.jpg" group-title="LondonDigitalRadio",BBC Radio 1  | Top 40/Dance
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1,tvg-name="BBC Radio 2" tvg-logo="https://pbs.twimg.com/profile_images/1080054947528523776/ZthxLFvg_400x400.jpg" group-title="LondonDigitalRadio",BBC Radio 2  | Adult Contemporary
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1,tvg-name="BBC Radio 3" tvg-logo="https://pbs.twimg.com/profile_images/715548297818202112/AsTNc_PR_400x400.jpg" group-title="LondonDigitalRadio",BBC Radio 3  | Classical
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1,tvg-name="BBC Radio 4" tvg-logo="https://pbs.twimg.com/profile_images/842774198753918976/XyZcU3lM_400x400.jpg" group-title="LondonDigitalRadio",BBC Radio 4  | News/Feature programming
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1,tvg-name="BBC Radio 4e" tvg-logo="https://pbs.twimg.com/profile_images/505004421353185280/_z38Of0i_400x400.jpeg" group-title="LondonDigitalRadio",BBC Radio 4 extra  | Comedy/Drama/Features
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1,tvg-name="BBC Radio 5" tvg-logo="https://pbs.twimg.com/profile_images/1111491890497626112/ICPbeQ6z_400x400.jpg" group-title="LondonDigitalRadio",BBC Radio 5 Live | News/Talk/Sport
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1,tvg-name="BBC Radio 6" tvg-logo="https://pbs.twimg.com/profile_images/1257244448381173760/g9HVdibq_400x400.jpg" group-title="LondonDigitalRadio",BBC Radio 6 Music | Adult Alternative
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1,tvg-name="BBC Radio 1xtra" tvg-logo="https://pbs.twimg.com/profile_images/1278968021139238912/rp08h0il_400x400.jpg" group-title="LondonDigitalRadio",BBC Radio 1Xtra | Urban/RnB/HipHop
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1,tvg-name="BBC Radio Asian" tvg-logo="https://pbs.twimg.com/profile_images/1238127199330471937/mUrywalZ_400x400.jpg" group-title="LondonDigitalRadio",BBC Asian Network | Asian programming
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1,tvg-name="BBC World Service" tvg-logo="https://pbs.twimg.com/profile_images/1145627323967975424/Uwd1hK0p_400x400.png" group-title="LondonDigitalRadio",BBC World Service | International news/features
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
 
 #EXTINF:-1,tvg-name="BBC Radio London" tvg-logo="https://pbs.twimg.com/profile_images/1256175521005735940/2QTRvS0e_400x400.jpg" group-title="LondonDigitalRadio",BBC Radio London | Local news/features
-http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_london/format/pls.pls
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1,tvg-name="Bloomberg Radio" tvg-logo="https://pbs.twimg.com/profile_images/991781764371640321/2LO8i2C2_400x400.jpg" group-title="LondonDigitalRadio",Bloomberg Radio | Finance News
 http://18843.live.streamtheworld.com:80/WBBRAMAAC48_SC
