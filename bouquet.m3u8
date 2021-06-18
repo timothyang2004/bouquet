@@ -378,8 +378,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393c
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 
 
-#EXTINF:-1,tvg-name="LoveNature" tvg-logo="https://pbs.twimg.com/profile_images/1083149125112086528/ywFqohr8_400x400.jpg" group-title="EntertainmentBouquet",US | Love Nature
-http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-name="Clarity" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/Clarity_4K_190x190_Circle.png?raw=true" group-title="EntertainmentBouquet",US | Clarity 4k
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1,tvg-name="LoveNature" tvg-logo="https://pbs.twimg.com/profile_images/1083149125112086528/ywFqohr8_400x400.jpg" group-title="EntertainmentBouquet",US | Love Nature 4k
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1,tvg-name="NGeo" tvg-logo="https://pbs.twimg.com/profile_images/1305841513050583045/GMz3LpM1_400x400.png" group-title="EntertainmentBouquet",US | National Geographic
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
