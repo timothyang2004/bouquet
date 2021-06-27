@@ -1,3 +1,122 @@
+#EXTINF:-1 tvg-id="Rai1HD.it" tvg-name="Rai 1 HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1030937494890668032/mo-ElaW7_400x400.jpg" group-title="Italy",Rai 1 HD
+http://194.76.186.69:8000/play/a0d1
+#EXTINF:-1 tvg-id="Rai2HD.it" tvg-name="Rai 2 HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1347090356307947520/iSVfuGOl_400x400.jpg" group-title="Italy",Rai 2 HD
+http://194.76.186.69:8000/play/a0d2
+#EXTINF:-1 tvg-id="Rai3HD.it" tvg-name="Rai 3 HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1031100769456582657/A9Y1hto4_400x400.jpg" group-title="Italy",Rai 3 HD
+http://194.76.186.69:8000/play/a0d3
+#EXTINF:-1 tvg-id="Rai4HD.it" tvg-name="Rai 4 HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/819836983937798144/janaaC8m_400x400.jpg" group-title="Italy",Rai 4 HD
+http://194.76.186.69:8000/play/a0pm
+#EXTINF:-1 tvg-id="Rai5HD.it" tvg-name="Rai 5 HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/851303824904130561/v4mLqG4k_400x400.jpg" group-title="Italy",Rai 5 HD
+http://194.76.186.69:8000/play/a0pl
+#EXTINF:-1 tvg-id="RaiGRParlamento.it" tvg-name="Rai GR Parlamento" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/821602693731024896/F5oXb-Hl_400x400.jpg" group-title="Italy",Rai GR Parlamento
+http://194.76.186.69:8000/play/a0qh
+#EXTINF:-1 tvg-id="RaiGulpHD.it" tvg-name="Rai Gulp HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/986251199786684416/j7EiV1Yd_400x400.jpg" group-title="Italy",Rai Gulp HD
+http://194.76.186.69:8000/play/a00q
+#EXTINF:-1 tvg-id="RaiIsoradio.it" tvg-name="Rai Isoradio" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1092787491126550528/hg6FEJtl_400x400.jpg" group-title="Italy",Rai Isoradio
+http://194.76.186.69:8000/play/a0qi
+#EXTINF:-1 tvg-id="RaiMovieHD.it" tvg-name="Rai Movie HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/986620703796551685/iBvojM0X_400x400.jpg" group-title="Italy",Rai Movie HD
+http://194.76.186.69:8000/play/a0po
+#EXTINF:-1 tvg-id="RaiNews24HD.it" tvg-name="Rai News 24 HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/796339179915460608/wCYhaFyL_400x400.jpg" group-title="Italy",Rai News 24 HD
+http://194.76.186.69:8000/play/a0pp
+#EXTINF:-1 tvg-id="RaiOMUnica.it" tvg-name="Rai OM Unica" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/3608411692/f88ec1ff7a79f7c7db09ed3dead381f1_400x400.png" group-title="Italy",Rai OM Unica
+http://194.76.186.69:8000/play/a0qo
+#EXTINF:-1 tvg-id="RaiPremiumHD.it" tvg-name="Rai Premium HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/986620602541838336/f3K8ucms_400x400.jpg" group-title="Italy",Rai Premium HD
+http://194.76.186.69:8000/play/a038
+#EXTINF:-1 tvg-id="RaiScuolaHD.it" tvg-name="Rai Scuola HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/986938775841443840/9eybjyCO_400x400.jpg" group-title="Italy",Rai Scuola HD
+http://194.76.186.69:8000/play/a00s
+#EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/986287519728852992/xXVZEeAq_400x400.jpg" group-title="Italy",Rai Sport (404p)
+https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
+#EXTINF:-1 tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/986287519728852992/xXVZEeAq_400x400.jpg" group-title="Italy",Rai Sport + HD
+http://194.76.186.69:8000/play/a0d4
+#EXTINF:-1 tvg-id="RaiStoriaHD.it" tvg-name="Rai Storia HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/986597651046191104/irr2NA-V_400x400.jpg" group-title="Italy",Rai Storia HD
+http://194.76.186.69:8000/play/a0pq
+#EXTINF:-1 tvg-id="RaiYoYoHD.it" tvg-name="Rai YoYo HD" tvg-country="IT" tvg-language="" tvg-logo="https://static.wixstatic.com/media/afc5a8_d0f0c0ffdcf44d0bbc164132d8458326~mv2.jpg/v1/fill/w_632,h_420,al_c,q_80,usm_0.66_1.00_0.01/afc5a8_d0f0c0ffdcf44d0bbc164132d8458326~mv2.jpg" group-title="Italy",Rai YoYo HD
+http://194.76.186.69:8000/play/a00r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png" group-title="Italy",Rai 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am:80/s29/04.m3u8
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 1 [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 tvg-id="Rai1Geo.it" tvg-name="Rai 1 (Geo)" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 1 (Geo)
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 tvg-id="Rai1HD.it" tvg-name="Rai 1 HD" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 1 HD
+http://194.76.186.69:8000/play/a0d1
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 2 [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1280px-Rai_3_-_Logo_2016.svg.png" group-title="Italy",Rai 3 (576p)
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 3 [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 4
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 4 [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 5 [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/anMBVB2.png" group-title="Italy",Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai Movie [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rai_News_24.svg/1920px-Rai_News_24.svg.png" group-title="Italy",Rai News 24 (576p)
+https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
+#EXTINF:-1 tvg-id="RaiNewsHD.it" tvg-name="Rai News HD" tvg-country="IT" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Live-TV_Blue.png?raw=true" group-title="Italy",Rai News HD (576p)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai Premium [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/rovwgYW.png" group-title="Italy",Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+
+#EXTINF:-1 tvg-id="RaiSportGeo.it" tvg-name="Rai Sport (Geo)" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai Sport (Geo)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975
+#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="Rai Sport+" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai Sport+ [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
+#EXTINF:-1 tvg-id="RaiSportPlusGeo.it" tvg-name="Rai Sport+ (Geo)" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai Sport+ (Geo)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/xKt2SJw.png" group-title="Italy",Rai Storia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+
+#EXTINF:-1 tvg-id="RaiYoYo.it" tvg-name="Rai YoYo" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/Elw5ZtU.png" group-title="Italy",Rai YoYo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="BrindiamoChannel.it" tvg-name="Brindiamo Channel" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/9eJ3dVa.jpg" group-title="Italy",Brindiamo Channel (720p)
 https://okproductions-brindiamochannel-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CafeTV24.it" tvg-name="CafeTV24" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/Ta05IbG.jpg" group-title="Italy",CafeTV24
@@ -288,83 +407,7 @@ http://flash2.xdevel.com/norbatv/smil:norbatv.smil/chunklist_b864000_slita.m3u8
 http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioZeta.it" tvg-name="RadioZeta" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",RadioZeta
 https://unlimited1-cl.dps.live/radioztv/radioztv.smil/radioztv/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png" group-title="Italy",Rai 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am:80/s29/04.m3u8
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 1 [Geo-blocked]
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
-#EXTINF:-1 tvg-id="Rai1Geo.it" tvg-name="Rai 1 (Geo)" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 1 (Geo)
-http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
-#EXTINF:-1 tvg-id="Rai1HD.it" tvg-name="Rai 1 HD" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 1 HD
-http://194.76.186.69:8000/play/a0d1
-#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 2 [Geo-blocked]
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
-#EXTINF:-1 tvg-id="Rai2HD.it" tvg-name="Rai 2 HD" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 2 HD
-http://194.76.186.69:8000/play/a0d2
-#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 3
-http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
-#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1280px-Rai_3_-_Logo_2016.svg.png" group-title="Italy",Rai 3 (576p)
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 3 [Geo-blocked]
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
-#EXTINF:-1 tvg-id="Rai3HD.it" tvg-name="Rai 3 HD" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 3 HD
-http://194.76.186.69:8000/play/a0d3
-#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 4
-http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966
-#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 4 [Geo-blocked]
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
-#EXTINF:-1 tvg-id="Rai4HD.it" tvg-name="Rai 4 HD" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 4 HD
-http://194.76.186.69:8000/play/a0pm
-#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 5 [Geo-blocked]
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
-#EXTINF:-1 tvg-id="Rai5HD.it" tvg-name="Rai 5 HD" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai 5 HD
-http://194.76.186.69:8000/play/a0pl
-#EXTINF:-1 tvg-id="RaiGRParlamento.it" tvg-name="Rai GR Parlamento" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai GR Parlamento
-http://194.76.186.69:8000/play/a0qh
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/anMBVB2.png" group-title="Italy",Rai Gulp
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
-#EXTINF:-1 tvg-id="RaiGulpHD.it" tvg-name="Rai Gulp HD" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai Gulp HD
-http://194.76.186.69:8000/play/a00q
-#EXTINF:-1 tvg-id="RaiIsoradio.it" tvg-name="Rai Isoradio" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai Isoradio
-http://194.76.186.69:8000/play/a0qi
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai Movie [Geo-blocked]
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
-#EXTINF:-1 tvg-id="RaiMovieHD.it" tvg-name="Rai Movie HD" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai Movie HD
-http://194.76.186.69:8000/play/a0po
-#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rai_News_24.svg/1920px-Rai_News_24.svg.png" group-title="Italy",Rai News 24 (576p)
-https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
-#EXTINF:-1 tvg-id="RaiNews24HD.it" tvg-name="Rai News 24 HD" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai News 24 HD
-http://194.76.186.69:8000/play/a0pp
-#EXTINF:-1 tvg-id="RaiNewsHD.it" tvg-name="Rai News HD" tvg-country="IT" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Live-TV_Blue.png?raw=true" group-title="Italy",Rai News HD (576p)
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
-#EXTINF:-1 tvg-id="RaiOMUnica.it" tvg-name="Rai OM Unica" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai OM Unica
-http://194.76.186.69:8000/play/a0qo
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai Premium [Geo-blocked]
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
-#EXTINF:-1 tvg-id="RaiPremiumHD.it" tvg-name="Rai Premium HD" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai Premium HD
-http://194.76.186.69:8000/play/a038
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/rovwgYW.png" group-title="Italy",Rai Scuola
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
-#EXTINF:-1 tvg-id="RaiScuolaHD.it" tvg-name="Rai Scuola HD" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai Scuola HD
-http://194.76.186.69:8000/play/a00s
-#EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="Italy",Rai Sport (404p)
-https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
-#EXTINF:-1 tvg-id="RaiSportGeo.it" tvg-name="Rai Sport (Geo)" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai Sport (Geo)
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975
-#EXTINF:-1 tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai Sport + HD
-http://194.76.186.69:8000/play/a0d4
-#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="Rai Sport+" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai Sport+ [Geo-blocked]
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
-#EXTINF:-1 tvg-id="RaiSportPlusGeo.it" tvg-name="Rai Sport+ (Geo)" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai Sport+ (Geo)
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145
-#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/xKt2SJw.png" group-title="Italy",Rai Storia
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
-#EXTINF:-1 tvg-id="RaiStoriaHD.it" tvg-name="Rai Storia HD" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai Storia HD
-http://194.76.186.69:8000/play/a0pq
-#EXTINF:-1 tvg-id="RaiYoYo.it" tvg-name="Rai YoYo" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/Elw5ZtU.png" group-title="Italy",Rai YoYo
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
-#EXTINF:-1 tvg-id="RaiYoYoHD.it" tvg-name="Rai YoYo HD" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Rai YoYo HD
-http://194.76.186.69:8000/play/a00r
+
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesItaly.es" tvg-name="Rakuten TV Action Movies Italy" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Italy",Rakuten TV Action Movies Italy (720p)
 https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMoviesItaly.es" tvg-name="Rakuten TV Comedy Movies Italy" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="Italy",Rakuten TV Comedy Movies Italy (720p)
@@ -474,7 +517,7 @@ https://live.teleliguriasud.it/hls/tls/index.m3u8
 #EXTINF:-1 tvg-id="TelePavia.it" tvg-name="Tele Pavia" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/3oWB2li.jpg" group-title="Italy",Tele Pavia (720p)
 http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
 #EXTINF:-1 tvg-id="TelePegasoCatania.it" tvg-name="Tele Pegaso Catania" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/alKlcEp.png" group-title="Italy",Tele Pegaso Catania (404p)
-https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
+https://flash2.xdevel.com/telepegasoe812/telepegasocanale812/playlist.m3u8
 #EXTINF:-1 tvg-id="TelePordenone.it" tvg-name="Tele Pordenone" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Tele Pordenone
 http://213.187.12.18/telepn/telepn.m3u8
 #EXTINF:-1 tvg-id="TeleQuattro.it" tvg-name="Tele Quattro" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Tele Quattro
