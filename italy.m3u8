@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-id="RaiNews24HD.it" tvg-name="Rai News 24 HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/796339179915460608/wCYhaFyL_400x400.jpg" group-title="Italy",Rai News 24 HD
+http://194.76.186.69:8000/play/a0pp
 #EXTINF:-1 tvg-id="Rai1HD.it" tvg-name="Rai 1 HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1030937494890668032/mo-ElaW7_400x400.jpg" group-title="Italy",Rai 1 HD
 http://194.76.186.69:8000/play/a0d1
 #EXTINF:-1 tvg-id="Rai2HD.it" tvg-name="Rai 2 HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1347090356307947520/iSVfuGOl_400x400.jpg" group-title="Italy",Rai 2 HD
@@ -8,36 +10,40 @@ http://194.76.186.69:8000/play/a0d3
 http://194.76.186.69:8000/play/a0pm
 #EXTINF:-1 tvg-id="Rai5HD.it" tvg-name="Rai 5 HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/851303824904130561/v4mLqG4k_400x400.jpg" group-title="Italy",Rai 5 HD
 http://194.76.186.69:8000/play/a0pl
-#EXTINF:-1 tvg-id="RaiGRParlamento.it" tvg-name="Rai GR Parlamento" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/821602693731024896/F5oXb-Hl_400x400.jpg" group-title="Italy",Rai GR Parlamento
-http://194.76.186.69:8000/play/a0qh
-#EXTINF:-1 tvg-id="RaiGulpHD.it" tvg-name="Rai Gulp HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/986251199786684416/j7EiV1Yd_400x400.jpg" group-title="Italy",Rai Gulp HD
-http://194.76.186.69:8000/play/a00q
-#EXTINF:-1 tvg-id="RaiIsoradio.it" tvg-name="Rai Isoradio" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1092787491126550528/hg6FEJtl_400x400.jpg" group-title="Italy",Rai Isoradio
-http://194.76.186.69:8000/play/a0qi
 #EXTINF:-1 tvg-id="RaiMovieHD.it" tvg-name="Rai Movie HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/986620703796551685/iBvojM0X_400x400.jpg" group-title="Italy",Rai Movie HD
 http://194.76.186.69:8000/play/a0po
-#EXTINF:-1 tvg-id="RaiNews24HD.it" tvg-name="Rai News 24 HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/796339179915460608/wCYhaFyL_400x400.jpg" group-title="Italy",Rai News 24 HD
-http://194.76.186.69:8000/play/a0pp
-#EXTINF:-1 tvg-id="RaiOMUnica.it" tvg-name="Rai OM Unica" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/3608411692/f88ec1ff7a79f7c7db09ed3dead381f1_400x400.png" group-title="Italy",Rai OM Unica
-http://194.76.186.69:8000/play/a0qo
 #EXTINF:-1 tvg-id="RaiPremiumHD.it" tvg-name="Rai Premium HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/986620602541838336/f3K8ucms_400x400.jpg" group-title="Italy",Rai Premium HD
 http://194.76.186.69:8000/play/a038
-#EXTINF:-1 tvg-id="RaiScuolaHD.it" tvg-name="Rai Scuola HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/986938775841443840/9eybjyCO_400x400.jpg" group-title="Italy",Rai Scuola HD
-http://194.76.186.69:8000/play/a00s
+#EXTINF:-1 tvg-id="RaiStoriaHD.it" tvg-name="Rai Storia HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/986597651046191104/irr2NA-V_400x400.jpg" group-title="Italy",Rai Storia HD
+http://194.76.186.69:8000/play/a0pq
+#EXTINF:-1 tvg-id="RaiIsoradio.it" tvg-name="Rai Isoradio" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1092787491126550528/hg6FEJtl_400x400.jpg" group-title="Italy",Rai Isoradio
+http://194.76.186.69:8000/play/a0qi
+#EXTINF:-1 tvg-id="RaiOMUnica.it" tvg-name="Rai OM Unica" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/3608411692/f88ec1ff7a79f7c7db09ed3dead381f1_400x400.png" group-title="Italy",Rai OM Unica
+http://194.76.186.69:8000/play/a0qo
 #EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/986287519728852992/xXVZEeAq_400x400.jpg" group-title="Italy",Rai Sport (404p)
 https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
 #EXTINF:-1 tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/986287519728852992/xXVZEeAq_400x400.jpg" group-title="Italy",Rai Sport + HD
 http://194.76.186.69:8000/play/a0d4
-#EXTINF:-1 tvg-id="RaiStoriaHD.it" tvg-name="Rai Storia HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/986597651046191104/irr2NA-V_400x400.jpg" group-title="Italy",Rai Storia HD
-http://194.76.186.69:8000/play/a0pq
 #EXTINF:-1 tvg-id="RaiYoYoHD.it" tvg-name="Rai YoYo HD" tvg-country="IT" tvg-language="" tvg-logo="https://static.wixstatic.com/media/afc5a8_d0f0c0ffdcf44d0bbc164132d8458326~mv2.jpg/v1/fill/w_632,h_420,al_c,q_80,usm_0.66_1.00_0.01/afc5a8_d0f0c0ffdcf44d0bbc164132d8458326~mv2.jpg" group-title="Italy",Rai YoYo HD
 http://194.76.186.69:8000/play/a00r
+#EXTINF:-1 tvg-id="RaiGulpHD.it" tvg-name="Rai Gulp HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/986251199786684416/j7EiV1Yd_400x400.jpg" group-title="Italy",Rai Gulp HD
+http://194.76.186.69:8000/play/a00q
+#EXTINF:-1 tvg-id="RaiScuolaHD.it" tvg-name="Rai Scuola HD" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/986938775841443840/9eybjyCO_400x400.jpg" group-title="Italy",Rai Scuola HD
+http://194.76.186.69:8000/play/a00s
+#EXTINF:-1 tvg-id="RaiGRParlamento.it" tvg-name="Rai GR Parlamento" tvg-country="IT" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/821602693731024896/F5oXb-Hl_400x400.jpg" group-title="Italy",Rai GR Parlamento
+http://194.76.186.69:8000/play/a0qh
 
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-country="IT" tvg-language="Italian" tvg-logo="https://pbs.twimg.com/profile_images/1052207229380845568/Bd3fatEp_400x400.jpg" group-title="Italy",Canale 5
+http://194.76.186.69:8000/play/a00f
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/300px-Italia_1.svg.png" group-title="Italy",Italia 1
+http://194.76.186.69:8000/play/a0py
+#EXTINF:-1 tvg-id="La7.it" tvg-name="La7" tvg-country="IT" tvg-language="Italian" tvg-logo="" group-title="Italy",La7
+http://194.76.186.69:8000/play/a0qw
 
-
-
-
-
+#EXTINF:-1 tvg-id="NoveIT.it" tvg-name="Nove IT" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/ADGbwMY.png" group-title="Italy",Nove IT
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Italia 2 (480p)
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
 
 
 
