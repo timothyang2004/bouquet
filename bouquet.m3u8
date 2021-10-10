@@ -762,6 +762,7 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m
 https://ffxradio-lh.akamaihd.net/i/2gbvid_1@454903/index_500_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-name="TF1" tvg-logo="https://pbs.twimg.com/profile_images/1225089726773964802/r5U7XIxU_400x400.jpg" group-title="FrenchBouquet",France | TF1
+http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
 #EXTINF:-1 tvg-name="TFX" tvg-logo="https://pbs.twimg.com/profile_images/1225089595878100992/MMgZuW4C_400x400.jpg" group-title="FrenchBouquet",France | TFX
 #EXTINF:-1 tvg-name="TF1F" tvg-logo="https://pbs.twimg.com/profile_images/1238051393442897920/O3GWUkG1_400x400.jpg" group-title="FrenchBouquet",France | TF1 Séries Films
 #EXTINF:-1 tvg-name="TMC" tvg-logo="https://pbs.twimg.com/profile_images/1331872689267601412/yFSgFpCJ_400x400.jpg" group-title="FrenchBouquet",France | TMC
@@ -770,6 +771,10 @@ https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 
 
 #EXTINF:-1 tvg-name="France 2" tvg-logo="https://www.ffp.asso.fr/wp-content/uploads/2018/10/France-2.png" group-title="FrenchBouquet",France | France 2
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="France 3" tvg-logo="https://www.ffp.asso.fr/wp-content/uploads/2018/10/France-3.png" group-title="FrenchBouquet",France | France 3
+http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="M6" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="FrenchBouquet",France | M6
 
