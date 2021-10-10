@@ -756,7 +756,7 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 #EXTINF:-1,tvg-name="Sky Racing World" tvg-logo="https://pbs.twimg.com/profile_images/535312764105785344/aBXCO5Jz_400x400.jpeg" group-title="AussieBouquet",Australia | Sky Racing World
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1,tvg-name="Thoroughbred Central" tvg-logo="http://www.skyracing.com.au/assets/website_images/images/Logos/SR-Thumb-Thoroughbred-Central.jpg" group-title="AussieBouquet",Australia | Thoroughbred Central
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8 
 
 #EXTINF:-1,tvg-name="2GBLive" tvg-logo="https://www.digitalradioplus.com.au/CMSPages/GetMetaFile.aspx?fileguid=065b936f-b8ea-43b8-bbbf-000bdc820cfe" group-title="AussieBouquet",Australia| 2GB Live
 https://ffxradio-lh.akamaihd.net/i/2gbvid_1@454903/index_500_av-p.m3u8?sd=10&rebase=on
