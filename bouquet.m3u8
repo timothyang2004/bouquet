@@ -4,11 +4,11 @@
 
 
 #EXTINF:-1,tvg-name="Now70s" tvg-logo="https://media.info/i/lf/600/1576450439/1191.png" group-title="MusicBouquet",UK | Now 70s
-https://lightningnow70-samsungau.amagi.tv/playlist720p.m3u8
+https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,tvg-name="Now80s" tvg-logo="https://media.info/i/lf/600/1487529852/1546.png" group-title="MusicBouquet",UK | Now 80s
-https://lightningnow80-samsungau.amagi.tv/playlist720p.m3u8
+https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,tvg-name="Now90s" tvg-logo="https://media.info/i/lf/600/1515881263/6367.png" group-title="MusicBouquet",UK | Now 90s
-https://lightningnow90-samsungau.amagi.tv/playlist720p.m3u8
+https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,tvg-name="Kiss" tvg-logo="https://pbs.twimg.com/profile_images/2866723969/2ca120149dd6f89c448c252a7ad13532_400x400.png" group-title="MusicBouquet",UK | Kiss
 #EXTINF:-1,tvg-name="Kerang" tvg-logo="https://pbs.twimg.com/profile_images/566297265078140929/F3mh9XMq_400x400.jpeg" group-title="MusicBouquet",UK | Kerrang!
@@ -17,9 +17,9 @@ https://lightningnow90-samsungau.amagi.tv/playlist720p.m3u8
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
 #EXTINF:-1,tvg-name="m2o IT" tvg-logo="https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o_1024x1024.png" group-title="MusicBouquet",Italy | m2o
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1,tvg-name="Capital IT" tvg-logo="https://www.tvdream.net/immagini/radiocapital.gif" group-title="MusicBouquet",Italy | Radio Capital Tivù
-https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8?sd=10&rebase=on
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 
 
 
@@ -80,6 +80,13 @@ https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1,tvg-name="TechnoWarehouse" tvg-logo="https://i.imgur.com/GyxXMDv.png" group-title="MusicBouquet",US | Techno Warehouse
 https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
 
+
+#EXTINF:-1,tvg-name="Qwest TV Mix" tvg-logo="https://pbs.twimg.com/profile_images/1378020596471193614/eKPtvHok_400x400.jpg" group-title="MusicBouquet",US | Qwest Mix
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungau-qwestmix-samsung-au/playlist.m3u8
+#EXTINF:-1,tvg-name="Qwest TV Mix" tvg-logo="https://pbs.twimg.com/profile_images/1378020596471193614/eKPtvHok_400x400.jpg" group-title="MusicBouquet",US | Qwest Jazz
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungau-qwestjazz-samsungtv/playlist.m3u8
+#EXTINF:-1,tvg-name="Qwest TV Mix" tvg-logo="https://pbs.twimg.com/profile_images/1378020596471193614/eKPtvHok_400x400.jpg" group-title="MusicBouquet",US | Qwest Classical
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungau-qwestclassic-samsung-au/playlist.m3u8
 
 #EXTINF:-1,tvg-name="Loop80s" tvg-logo="https://pbs.twimg.com/profile_images/1252281186916982787/AnMkfa0u_400x400.jpg" group-title="MusicBouquet",Loop 80s
 https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8
@@ -155,6 +162,9 @@ https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="DeluxeLoungeHD" tvg-logo="https://www.highview.com/fileadmin/Webdata/grafiken/highview/brands/lounge_deluxe_brand_logo_HD_neu.png" group-title="MusicBouquet",Germany | Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/91fcad1e-54b1-4702-9ec1-22a379525281/0.m3u8
 
+#EXTINF:-1,tvg-name="" tvg-logo="" group-title="Calm",US | Weather Spy
+https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1,tvg-name="SurfLine Bondi" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="Calm",Bondi Beach
 https://cams.cdn-surfline.com/cdn-au/au-bondi/chunklist.m3u8
 #EXTINF:-1,tvg-name="SurfLine North Bondi" tvg-logo="https://pbs.twimg.com/profile_images/1339004973657456640/y5l_Hie-_400x400.jpg" group-title="Calm",North Bondi
@@ -209,7 +219,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/
 https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918826532646273025/RVi4b3Oi_400x400.jpg" group-title="Calm",Stingray Naturescape
-https://samsung-au.ott-channels.stingray.com/naturescape/master.m3u8
+
 
 #EXTINF:-1,tvg-name="CNN" tvg-logo="https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_400x400.jpg" group-title="NewsBouquet",US| CNN US
 
@@ -354,7 +364,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393c
 
 #EXTINF:-1, tvg-name="CBS" tvg-logo="https://pbs.twimg.com/profile_images/1314219897774174208/UudyeGba_400x400.png" group-title="EntertainmentBouquet",US | CBS 4 Maimi
 
-
+#EXTINF:-1,tvg-name="TasteMade" tvg-logo="" group-title="EntertainmentBouquet",US | TasteMade
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,tvg-name="Clarity" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/Clarity_4K_190x190_Circle.png?raw=true" group-title="EntertainmentBouquet",US | Clarity 4k
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
