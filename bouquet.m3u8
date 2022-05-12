@@ -100,7 +100,7 @@ https://loop-hip-hop-2.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VEVO70s.us" tvg-logo="http://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="MusicBouquet",US | Vevo 70
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="Vevo80s" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="MusicBouquet",US | Vevo 80s
+#EXTINF:-1 tvg-id="Vevo80s" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="MusicBouquet",US | Vevo 80s
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="VEVO90s" tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="MusicBouquet",US | Vevo 90's
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -118,15 +118,15 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918826532646273025/RVi4b3Oi_400x400.jpg" group-title="MusicBouquet",Stingray Classica
-https://stirr.ott-channels.stingray.com/iota-classica/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918826532646273025/RVi4b3Oi_400x400.jpg" group-title="MusicBouquet",Stingray Qello
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/1920x1080_5161200/chunklist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918826532646273025/RVi4b3Oi_400x400.jpg" group-title="MusicBouquet",Stingray djazz
-https://stirr.ott-channels.stingray.com/djazz/master.m3u8
+https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918826532646273025/RVi4b3Oi_400x400.jpg" group-title="MusicBouquet",Stingray Karaoke
-https://samsung-au.ott-channels.stingray.com/karaoke/master.m3u8
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 
 #EXTINF:-1 tvg-id="HQMRemember" tvg-logo="https://hqm.es/wp-content/uploads/remember-hqm-logo.png" group-title="MusicBouquet",Spain | HQM Remember
 https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
@@ -149,16 +149,12 @@ https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master
 #EXTINF:-1,tvg-name="FashionTV" tvg-logo="https://i.imgur.com/QhJ38Hx.png" group-title="MusicBouquet",France | Fashion TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name="HDFashion" tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="MusicBouquet",Russia| HDFashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1592726780
-
 #EXTINF:-1,tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/697532726170222592/QYZcPJzh_400x400.jpg" group-title="Calm",US | Loupe 4k
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1,tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/697532726170222592/QYZcPJzh_400x400.jpg" group-title="Calm",US | Loupe HD
 https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DeluxeLoungeHD" tvg-logo="https://www.highview.com/fileadmin/Webdata/grafiken/highview/brands/lounge_deluxe_brand_logo_HD_neu.png" group-title="MusicBouquet",Germany | Deluxe Lounge HD
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/91fcad1e-54b1-4702-9ec1-22a379525281/0.m3u8
 
 #EXTINF:-1,tvg-name="Weather Spy" tvg-logo="" group-title="Calm",US | Weather Spy
 https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
@@ -230,7 +226,6 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,tvg-name="BBC News" tvg-logo="https://pbs.twimg.com/profile_images/1150718511129477120/2N_GW7HR_400x400.png" group-title="NewsBouquet",UK | BBC News UK
 
 #EXTINF:-1,tvg-name="Sky News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="NewsBouquet",UK | Sky News UK
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 
 #EXTINF:-1,tvg-name="GB News" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gb-news-uk.png" group-title="NewsBouquet",UK | GB News
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
@@ -243,18 +238,11 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1,tvg-name="CBS News" tvg-logo="https://pbs.twimg.com/profile_images/530311535550152704/Q5pSZZk6_400x400.jpeg" group-title="NewsBouquet",US | CBS News
 https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8
 
-#EXTINF:-1,tvg-name="ABC News Live" tvg-logo="https://pbs.twimg.com/profile_images/1224353808236666882/ixUUbdUD_400x400.jpg" group-title="NewsBouquet",US | ABC News Live
+#EXTINF:-1,tvg-name="ABC News Live" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="NewsBouquet",US | ABC News Live
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplusabcnews/CDN/playlist.m3u8
 
-#EXTINF:-1,tvg-name="NBC News Now" tvg-logo="https://pbs.twimg.com/profile_images/1131650557133938689/TmAm7HDQ_400x400.png" group-title="NewsBouquet",US | NBC News Now
+#EXTINF:-1,tvg-name="NBC News Now" tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="NewsBouquet",US | NBC News Now
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-
-
-#EXTINF:-1,tvg-name="USAToday" tvg-logo="https://pbs.twimg.com/profile_images/924991591642796032/v90LrlR__400x400.jpg" group-title="NewsBouquet",US | USA Today
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-usatodaynews/CDN/playlist.m3u8
-
-#EXTINF:-1,tvg-name="MSNBC" tvg-logo="https://pbs.twimg.com/profile_images/1321089811290202119/6QEBEjWk_400x400.jpg" group-title="NewsBouquet",US | MSNBC
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
 
 #EXTINF:-1,tvg-name="France 24" tvg-logo="https://pbs.twimg.com/profile_images/1323595938343038976/hnvK-_Yp_400x400.jpg" group-title="NewsBouquet",France | France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
@@ -265,25 +253,21 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1,tvg-name="EuroNews" tvg-logo="https://pbs.twimg.com/profile_images/1168824925110620161/aClpPizp_400x400.jpg" group-title="NewsBouquet",France | EuroNews
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1,tvg-name="AfricaNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Africanews._alternative_logo_2016.png" group-title="NewsBouquet",Congo | Africa News
-https://exodiver.github.io/IPTV/M3U8/Token/AfricaNews.m3u8
-
-#EXTINF:-1,tvg-name="GlobalNews" tvg-logo="https://pbs.twimg.com/profile_images/722490988120289280/iF92VumO_400x400.jpg" group-title="NewsBouquet",Canada | Global News
-https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
-
 #EXTINF:-1,tvg-name="Bloomberg+ 4k" tvg-logo="https://tbivision.com/files/2019/10/Bloomberg.png" group-title="NewsBouquet",US | Bloomberg+ 4k
 https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,tvg-name="Bloomberg+" tvg-logo="https://tbivision.com/files/2019/10/Bloomberg.png" group-title="NewsBouquet",US | Bloomberg+
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+
 #EXTINF:-1,tvg-name="Bloomberg US" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_400x400.jpg" group-title="NewsBouquet",US | Bloomberg US
 https://bloomberg-bloomberg-1-be.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1,tvg-name="Bloomberg EU" tvg-logo="https://www.digitaltveurope.com/files/2016/07/Bloomberg-Television.jpg" group-title="NewsBouquet",US | Bloomberg Europe
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+
 #EXTINF:-1,tvg-name="Bloomberg Asia" tvg-logo="https://pbs.twimg.com/profile_images/778129630284902401/gXjFkqGM_400x400.jpg" group-title="NewsBouquet",US | Bloomberg Asia
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
 #EXTINF:-1,tvg-name="Bloomberg Australia" tvg-logo="https://pbs.twimg.com/profile_images/768354336103600128/AktQ5A17_400x400.jpg" group-title="NewsBouquet",US | Bloomberg Australia
-https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+https://dai.google.com/linear/hls/pb/event/-0JiXPvoQCCx1Nbwgx9Xmw/stream/443dcc8a-7308-4eb0-bfdc-31331f546d35:SIN2/variant/50ca1eec7dcc99110b4a8cab047d8341/bandwidth/1200000.m3u8
 
 #EXTINF:-1,tvg-name="CNBC" tvg-logo="https://pbs.twimg.com/profile_images/1185182366156894208/pKRddT3o_400x400.png" group-title="NewsBouquet",US | CNBC Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -307,7 +291,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1,tvg-name="Channel NewsAsia International" tvg-logo="https://pbs.twimg.com/profile_images/1119289014719139840/pJBjLkG7_400x400.png" group-title="NewsBouquet",Singapore | Channel NewsAsia	
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1,tvg-name="ABC News" tvg-logo="https://static.wikia.nocookie.net/youtube/images/e/e1/ABC_News.jpg/revision/latest/scale-to-width-down/620?cb=20201205070421" group-title="NewsBouquet",Australia | ABC News
+#EXTINF:-1,tvg-name="ABC News" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="NewsBouquet",Australia | ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:-1,tvg-name="Sky News AU" tvg-logo="https://pbs.twimg.com/profile_images/1000895414311075840/gQgMjKmy_400x400.jpg" group-title="NewsBouquet",Australia | Sky News AU Canberra Feed
@@ -331,13 +315,10 @@ https://a.jsrdn.com/broadcast/baac3e801e/+0000/c.m3u8
 #EXTINF:-1, tvg-name="BBC2" tvg-logo="https://pbs.twimg.com/profile_images/1057914504321908736/06hkWvx__400x400.jpg" group-title="EntertainmentBouquet",UK | BBC Two
 
 #EXTINF:-1, tvg-name="ITV" tvg-logo="https://pbs.twimg.com/profile_images/1347232867563266063/W5l_gNL3_400x400.jpg" group-title="EntertainmentBouquet",UK | ITV London
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 
 #EXTINF:-1, tvg-name="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" group-title="EntertainmentBouquet",UK | ITV2
-http://51.52.156.22:8888/http/005
 
 #EXTINF:-1, tvg-name="ITV3" tvg-logo="https://pbs.twimg.com/profile_images/3180310163/4f64ed410af833b64adbde489667199e_400x400.png" group-title="EntertainmentBouquet",UK | ITV3
-http://51.52.156.22:8888/http/006
 
 #EXTINF:-1, tvg-name="Ch4" tvg-logo="https://pbs.twimg.com/profile_images/1377184167868264450/Sx9F66vl_400x400.jpg" group-title="EntertainmentBouquet",UK | Channel 4
 
@@ -355,7 +336,6 @@ http://51.52.156.22:8888/http/006
 #EXTINF:-1, tvg-name="BBC Lifestyle" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="EntertainmentBouquet",UK | BBC Lifestyle
 
 #EXTINF:-1, tvg-name="BritTV" tvg-logo="https://thebritishtvplace.com/wp-content/uploads/2019/07/British-TV-on-Pluto-TV.png" group-title="EntertainmentBouquet",UK | British TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=154&deviceId=5b68a18823ecb93393cba2f1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 
 #EXTINF:-1, tvg-name="CBS2" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/cbs.png" group-title="EntertainmentBouquet",US | CBS 2 New York
@@ -502,7 +482,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c927
 #EXTINF:-1,tvg-name="Pluto TV Strongman" tvg-logo="https://images.pluto.tv/channels/5bd81b1053ed2c6334ea0856/colorLogoPNG.png" group-title="SportsBouquet",US | Pluto TV Strongman
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd81b1053ed2c6334ea0856/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1, tvg-name="9 Sydney" tvg-logo="https://pbs.twimg.com/profile_images/1186946973787508738/gOTNhhUE_400x400.png" group-title="AussieBouquet",Sydney | 9
+#EXTINF:-1, tvg-name="9 Sydney" tvg-logo="https://pbs.twimg.com/profile_images/1502640407230189578/-EldnwwW_400x400.png" group-title="AussieBouquet",Sydney | 9
 http://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
 #EXTINF:-1, tvg-name="9Gem Sydney" tvg-logo="https://pbs.twimg.com/profile_images/669673232211931136/WYOeF2o8_400x400.jpg" group-title="AussieBouquet",Sydney | 9Gem 
 http://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
@@ -544,7 +524,7 @@ https://c.mjh.nz/101002210222/
 https://c.mjh.nz/101002210224/
 
 
-#EXTINF:-1, tvg-name="9 Melbourne |" tvg-logo="https://pbs.twimg.com/profile_images/1186946973787508738/gOTNhhUE_400x400.png" group-title="AussieBouquet",Melbourne | 9
+#EXTINF:-1, tvg-name="9 Melbourne |" tvg-logo="https://pbs.twimg.com/profile_images/1502640407230189578/-EldnwwW_400x400.png" group-title="AussieBouquet",Melbourne | 9
 http://i.mjh.nz/au/Melbourne/tv.101204300430.m3u8
 #EXTINF:-1, tvg-name="9Gem Melbourne |" tvg-logo="https://pbs.twimg.com/profile_images/669673232211931136/WYOeF2o8_400x400.jpg" group-title="AussieBouquet",Melbourne | 9Gem 
 http://i.mjh.nz/au/Melbourne/tv.101204300436.m3u8
@@ -589,7 +569,7 @@ https://c.mjh.nz/101002210224/
 #EXTINF:-1 tvg-id="C31Melbourne.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Ge1EutY.png" group-title="AussieBouquet",Melbourne | C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 
-#EXTINF:-1, tvg-name="9 Brisbane |" tvg-logo="https://pbs.twimg.com/profile_images/1186946973787508738/gOTNhhUE_400x400.png" group-title="AussieBouquet",Brisbane | 9
+#EXTINF:-1, tvg-name="9 Brisbane |" tvg-logo="https://pbs.twimg.com/profile_images/1502640407230189578/-EldnwwW_400x400.png" group-title="AussieBouquet",Brisbane | 9
 http://i.mjh.nz/au/Brisbane/tv.101204000401.m3u8
 #EXTINF:-1, tvg-name="9Gem Brisbane |" tvg-logo="https://pbs.twimg.com/profile_images/669673232211931136/WYOeF2o8_400x400.jpg" group-title="AussieBouquet",Brisbane | 9Gem 
 http://i.mjh.nz/au/Brisbane/tv.10120400040A.m3u8
@@ -633,7 +613,7 @@ https://c.mjh.nz/101002210222/
 #EXTINF:-1,tvg-name="ABC ME Brisbane |" tvg-logo="https://pbs.twimg.com/profile_images/890510685704142850/23XvlxoR_400x400.jpg" group-title="AussieBouquet",Brisbane | ABC ME
 https://c.mjh.nz/101002210224/
 
-#EXTINF:-1, tvg-name="9 Adelaide |" tvg-logo="https://pbs.twimg.com/profile_images/1186946973787508738/gOTNhhUE_400x400.png" group-title="AussieBouquet",Adelaide | 9 
+#EXTINF:-1, tvg-name="9 Adelaide |" tvg-logo="https://pbs.twimg.com/profile_images/1502640407230189578/-EldnwwW_400x400.png" group-title="AussieBouquet",Adelaide | 9 
 http://i.mjh.nz/au/Adelaide/tv.101204500451.m3u8
 #EXTINF:-1, tvg-name="9Gem Adelaide |" tvg-logo="https://pbs.twimg.com/profile_images/669673232211931136/WYOeF2o8_400x400.jpg" group-title="AussieBouquet",Adelaide | 9Gem 
 http://i.mjh.nz/au/Adelaide/tv.101204500457.m3u8
@@ -680,7 +660,7 @@ https://c.mjh.nz/101002210224/
 #EXTINF:-1 tvg-id="Channel44.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/YJvH9xY.png" group-title="AussieBouquet",Adelaide | Channel 44
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 
-#EXTINF:-1, tvg-name="9 Perth |" tvg-logo="https://pbs.twimg.com/profile_images/1186946973787508738/gOTNhhUE_400x400.png",group-title="AussieBouquet",Perth | 9
+#EXTINF:-1, tvg-name="9 Perth |" tvg-logo="https://pbs.twimg.com/profile_images/1502640407230189578/-EldnwwW_400x400.png",group-title="AussieBouquet",Perth | 9
 http://i.mjh.nz/au/Perth/tv.101204600461.m3u8
 #EXTINF:-1, tvg-name="9Gem Perth |" tvg-logo="https://pbs.twimg.com/profile_images/669673232211931136/WYOeF2o8_400x400.jpg" group-title="AussieBouquet",Perth | 9Gem 
 http://i.mjh.nz/au/Perth/tv.101204600467.m3u8
